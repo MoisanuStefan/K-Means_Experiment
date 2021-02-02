@@ -4,8 +4,8 @@ Machine Learning course assignment: Implement k-means++, run it 200 times and co
 After 200 runs with and without K-means++ (K = 5) initialization the program provides the following data:
   - graphs showing the chosen initial 5 centroids for each of the 200 runs with and without K_means++ init
   - statistics at the end of each 200 runs experiments:
-    - minimal value of all minimal objectives
-    - average minimal objective
+    - minimal value of all k-means objectives
+    - average k-means objective
     - standard deviation
     - average number of iterations needed for K-means/K-means++ to converge (meaning the clusterization is complete)
     - experiment run time
