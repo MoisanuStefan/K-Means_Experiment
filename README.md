@@ -1,6 +1,6 @@
 # K-Means_Experiment
 
-Machine Learning course assignment: Implement k-means++, run it 200 times and compare convergence efficiency with normal K-means.</br>
+Machine Learning course assignment: Implement k-means++, run it 200 times and compare convergence efficiency and result quality with normal K-means.</br>
 After 200 runs with and without K-means++ (K = 5) initialization the program provides the following data:
   - graphs showing the chosen initial 5 centroids for each of the 200 runs with and without K_means++ init
   - statistics at the end of each 200 runs experiments:
