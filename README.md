@@ -8,6 +8,6 @@ After 200 runs with and without K-means++ (K = 5) initialization the program pro
     - average k-means objective
     - standard deviation
     - average number of iterations needed for K-means/K-means++ to converge (meaning the clusterization is complete)
-    - experiment run time</br>
+    - experiment run time</br></br>
 As stated in the experiment review ( K-means++_Experiment.pdf ) the graphs show a clearly better initialization of centroids for K-means++ that leads to a better value for the minimal objective and a smaller number of iterations needed for the algorithm to stop.   
 
